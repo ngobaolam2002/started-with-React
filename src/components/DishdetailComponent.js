@@ -73,4 +73,4 @@ const DishDetail = (props) => {
       }
 }
 
-export default Dishdetail;
+export default DishDetail;
